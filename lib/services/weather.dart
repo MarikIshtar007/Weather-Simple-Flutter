@@ -1,7 +1,7 @@
 import 'location_coord.dart';
 import 'networking.dart';
 
-const apiKey = 'e7b2d02aea3010599fc3c31c51d0907f';
+const apiKey = '_API_KEY_HERE_';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/';
 const creditText = 'This minimal app was developed by Haany Ali, using the Flutter UI toolkit.';
 
