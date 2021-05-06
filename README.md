@@ -15,5 +15,8 @@ A new and Simple Flutter Application that provides the user with the latest info
 
 The screen shows a different color depending on the weather <br></br>
 ![Screenshot](screenshots/ss2.gif)<br></br>
+* The search functionality
+![Screenshot](screenshots/ss3.png)<br></br>
+### App Demo
 ![Screenshot](screenshots/ss_long.gif)
 
