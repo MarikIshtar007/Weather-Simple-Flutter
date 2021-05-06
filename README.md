@@ -10,10 +10,10 @@ A new and Simple Flutter Application that provides the user with the latest info
 
 ## Screenshots
 
-Showing the Main Screen
-![First Screenshot](https://github.com/MarikIshtar007/Weather-Simple-Flutter/tree/master/screenshots/ss1.gif)
+* Showing the Main Screen <br></br>
+![First Screenshot](screenshots/ss1.gif)
 
-The screen shows a different color depending on the weather
-![Screenshot](https://github.com/MarikIshtar007/Weather-Simple-Flutter/tree/master/screenshots/ss2.gif)
-![Screenshot](https://github.com/MarikIshtar007/Weather-Simple-Flutter/tree/master/screenshots/ss_long.gif)
+The screen shows a different color depending on the weather <br></br>
+![Screenshot](screenshots/ss2.gif)<br></br>
+![Screenshot](screenshots/ss_long.gif)
 
